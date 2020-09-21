@@ -4,7 +4,7 @@
 drive_folder_name = "GDriveUploaderBot"
 
 
-# Enter Your Mega email And Pass (Required)
+# Enter Your Mega email And Pass Required
 MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
